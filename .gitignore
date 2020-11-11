@@ -3,3 +3,4 @@
 *.pyc
 db.sqlite3
 __pychache__
+cloud_sql_proxy.exe
